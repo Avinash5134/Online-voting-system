@@ -35,4 +35,4 @@ while True:
                 voted.append(voter)
             else:
                 print("you are not allowed to vote")
-#new line
+
