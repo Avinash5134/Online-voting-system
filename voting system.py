@@ -34,5 +34,5 @@ while True:
                 voters_id.remove(voter)
                 voted.append(voter)
             else:
-                print("you are not allowed to vote")
-
+                print("you are not allowed to vote") 
+#update by aryan
