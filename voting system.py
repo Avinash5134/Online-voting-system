@@ -6,6 +6,7 @@ voters_id=[101,102,103,104,105,106]
 no_of_voters=len(voters_id)
 print("number of voters:",no_of_voters)
 voted=[]
+#code
 while True:
     if voters_id==[]:
         print("voting is over")
